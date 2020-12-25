@@ -1,5 +1,5 @@
 {
-  "name": "laravel-react",
+  "name": "Laravel-React",
   "scripts": {
     "dev": "npm run development",
     "development": "cross-env NODE_ENV=development node_modules/webpack/bin/webpack.js --progress --hide-modules --config=node_modules/laravel-mix/setup/webpack.config.js",
@@ -9,7 +9,7 @@
     "prod": "npm run production",
     "production": "cross-env NODE_ENV=production node_modules/webpack/bin/webpack.js --no-progress --hide-modules --config=node_modules/laravel-mix/setup/webpack.config.js"
   },
-  "author": "Moeen Basra",
+  "author": "David Whiting",
   "license": "ISC",
   "browserslist": [
     ">0.2%",
